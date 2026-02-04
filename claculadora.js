@@ -23,3 +23,7 @@ function dividir(){
 
     document.getElementById("resultado").innerHTML = a / b;}
 }
+console.log
+function hola(){
+    
+}

@@ -24,6 +24,9 @@ function mostrarDia() {
         case 7:
             mensaje = "Domingo";
             break;
+        case 8:
+            mensaje = "Festivo";
+            break;
         default:
             mensaje = "Número inválido. Por favor ingresa un número del 1 al 7.";
     }

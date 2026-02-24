@@ -4,7 +4,7 @@ function mostrarDia() {
 
     switch (numero) {
         case 1:
-            mensaje = "Lunes";
+            mensaje = "Lunes modificado master";
             break;
         case 2:
             mensaje = "Martes";

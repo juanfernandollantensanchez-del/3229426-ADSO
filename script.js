@@ -4,7 +4,7 @@ function mostrarDia() {
 
     switch (numero) {
         case 1:
-            mensaje = "Lunes modificado master";
+            mensaje = "Lunes modificado Rama1";
             break;
         case 2:
             mensaje = "Martes";
@@ -23,6 +23,12 @@ function mostrarDia() {
             break;
         case 7:
             mensaje = "Domingo";
+            break;
+        case 8:
+            mensaje = "Festivo";
+            break;
+        case 9:
+            mensaje = "otro dia";
             break;
         default:
             mensaje = "Número inválido. Por favor ingresa un número del 1 al 7.";
